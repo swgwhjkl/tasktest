@@ -1,3 +1,7 @@
+Основной код -> resources -> views ->welcome.blade
+Ларавел я начал изучать недавно, вот решил себя попробовать в новом фреймворке. 
+Мой второй аккаунт github -=-------> https://github.com/lapin-a-s?tab=repositories
+
 <p align="center"><a href="https://laravel.com" target="_blank"><img src="https://raw.githubusercontent.com/laravel/art/master/logo-lockup/5%20SVG/2%20CMYK/1%20Full%20Color/laravel-logolockup-cmyk-red.svg" width="400"></a></p>
 
 <p align="center">
